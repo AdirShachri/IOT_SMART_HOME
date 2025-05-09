@@ -1,2 +1,2 @@
-# IOT_SMART_HOME
+# IOTSMARTHOME
 "This repository is for IOT project."
